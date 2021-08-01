@@ -1,5 +1,5 @@
 <?php
-$conn=mysqli_connect("localhost","root","","registration") or die(mysqli_error($conn));
+$conn=mysqli_connect("remotemysql.com","J4SxK47KmR","UNtW9CHJ2J","J4SxK47KmR") or die(mysqli_error($conn));
 
 if(isset($_POST['submit'])){
   $firstname=$_POST['firstname'];
