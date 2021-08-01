@@ -27,7 +27,7 @@ if(isset($_POST['submit'])){
 <body bgcolor="lightblue">
 </body>
 
-   <form action="registration.php" method="post">
+   <form method="post">
       <div class="form">
       <form action="" method="POST">
         <center> <h1> Registration </h1></center>
