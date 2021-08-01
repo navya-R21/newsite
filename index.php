@@ -37,28 +37,28 @@ if(isset($_POST['submit'])){
          <center>
          <table>
          <tr>
-         <td><label for="firstname"><b>First name<?b></label></td>
+         <td><label for="firstname"><b>First name<b></label></td>
          <td><input type="text" name="firstname" placeholder="firstname" required""></td>
          </tr>
             
          <tr>
-         <td><label for="lastname"><b>Last name<?b></label></td>
+         <td><label for="lastname"><b>Last name<b></label></td>
          <td><input type="text" name="lastname" placeholder="lastname" required""></td>
          </tr>
 
          <tr>         
-         <td><label for="email"><b>Email<?b></label></td>
+         <td><label for="email"><b>Email<b></label></td>
          <td><input type="email" id="email" name="email" placeholder="emailid" required""></td>
          </tr>
 
          <tr>
-         <td><label for="password"><b>Password<?b></label></td>
+         <td><label for="password"><b>Password<b></label></td>
          <td><input type="password" name="password" placeholder="password" required""></td>
          </tr>
          
 
          <tr>
-         <td><label for="phone number"><b>Phone number<?b></label></td>
+         <td><label for="phone number"><b>Phone number<b></label></td>
          <td><input type="text" name="phonenumber" placeholder="phone number" required""></td>
          </tr>
          
